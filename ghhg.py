@@ -26,3 +26,5 @@ if __name__ == "__main__":
         else:
             m = create_matrix(r, c)
             print_matrix(m)
+
+print("ghhg.py done.")
