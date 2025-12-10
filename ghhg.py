@@ -28,3 +28,4 @@ if __name__ == "__main__":
             print_matrix(m)
 
 print("ghhg.py done.")
+print("kobe")
